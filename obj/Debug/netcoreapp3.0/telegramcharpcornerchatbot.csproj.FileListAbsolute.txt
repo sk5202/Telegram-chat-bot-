@@ -1,0 +1,15 @@
+C:\Users\smi10\source\repos\telegramcharpcornerchatbot\bin\Debug\netcoreapp3.0\telegramcharpcornerchatbot.exe
+C:\Users\smi10\source\repos\telegramcharpcornerchatbot\obj\Debug\netcoreapp3.0\telegramcharpcornerchatbot.csprojAssemblyReference.cache
+C:\Users\smi10\source\repos\telegramcharpcornerchatbot\obj\Debug\netcoreapp3.0\telegramcharpcornerchatbot.csproj.CoreCompileInputs.cache
+C:\Users\smi10\source\repos\telegramcharpcornerchatbot\obj\Debug\netcoreapp3.0\telegramcharpcornerchatbot.AssemblyInfoInputs.cache
+C:\Users\smi10\source\repos\telegramcharpcornerchatbot\obj\Debug\netcoreapp3.0\telegramcharpcornerchatbot.AssemblyInfo.cs
+C:\Users\smi10\source\repos\telegramcharpcornerchatbot\bin\Debug\netcoreapp3.0\telegramcharpcornerchatbot.deps.json
+C:\Users\smi10\source\repos\telegramcharpcornerchatbot\bin\Debug\netcoreapp3.0\telegramcharpcornerchatbot.runtimeconfig.json
+C:\Users\smi10\source\repos\telegramcharpcornerchatbot\bin\Debug\netcoreapp3.0\telegramcharpcornerchatbot.runtimeconfig.dev.json
+C:\Users\smi10\source\repos\telegramcharpcornerchatbot\bin\Debug\netcoreapp3.0\telegramcharpcornerchatbot.dll
+C:\Users\smi10\source\repos\telegramcharpcornerchatbot\bin\Debug\netcoreapp3.0\telegramcharpcornerchatbot.pdb
+C:\Users\smi10\source\repos\telegramcharpcornerchatbot\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\smi10\source\repos\telegramcharpcornerchatbot\bin\Debug\netcoreapp3.0\Telegram.Bot.dll
+C:\Users\smi10\source\repos\telegramcharpcornerchatbot\obj\Debug\netcoreapp3.0\telegramcharpcornerchatbot.csproj.CopyComplete
+C:\Users\smi10\source\repos\telegramcharpcornerchatbot\obj\Debug\netcoreapp3.0\telegramcharpcornerchatbot.dll
+C:\Users\smi10\source\repos\telegramcharpcornerchatbot\obj\Debug\netcoreapp3.0\telegramcharpcornerchatbot.pdb

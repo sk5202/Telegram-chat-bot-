@@ -1,2 +1,2 @@
-# Telegram-chat-bot-
-what is chat bot, importants and implement Telegram Chat Bot with .NET Core 3.
+# Telegram-chat-bot
+what is chat bot, important and implement Telegram Chat Bot with .NET Core 3
